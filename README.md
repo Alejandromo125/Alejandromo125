@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alejandromogamedev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/ryugamedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryugamedev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alejandro-mart%C3%ADn-ortega-422380212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro martín ortega" height="30" width="40" /></a>
