@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying at **UPC TTC videogame development**
 
-- 🤝 I’m currently working at [**Coding Giants**](https://www.codinggiants.es/)
+- 🤝 I’m currently working at [**Ignite SERIOUS PLAY**](https://igniteseriousplay.com/)
 
 - 💬 Ask me about **anything you want**
 
