@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A videogame developer eager to learn</h3>
 
-- 🌱 I’m currently studying at **UPC TTC videogame development**
+- 🌱 **UPC TTC videogame development** graduate!
 
 - 🤝 I’m currently working at [**Ignite SERIOUS PLAY**](https://igniteseriousplay.com/)
 
