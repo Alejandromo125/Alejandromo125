@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything you want**
 
-- 📫 How to reach me **alejandromogamedev@gmail.com**
+- 📫 How to reach me **alejandromartinortega@gmail.com**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
